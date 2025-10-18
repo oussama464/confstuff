@@ -1,0 +1,3 @@
+app_name = "My Awesome App (Production)"
+debug = false
+database_url = "postgres://prod_user:prod_pass@prod_host/prod_db"
